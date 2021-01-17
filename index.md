@@ -11,23 +11,7 @@
         <div class="header-title">
           <h1>Basement Bebop</h1>
         </div>
-
-        <!-- <div class="header-links">
-          <ul>
-            <li>
-              <a href="https://github.com/chasereckling/">Github</a>
-            </li>
-            <li>
-              <span>//</span><a href="https://twitter.com/chasereckling">Twitter</a>
-            </li>
-            <li>
-                <span>//</span><a href="https://www.linkedin.com/in/chasereckling/">LinkedIn</a>
-              </li>
-          </ul>
-        </div>
-
-        <h4>First world problem solver by profession; your friend by nature.</h4>
-      </div> -->
+      </div>
     </header>
     <main>
       <div class="main-container">
