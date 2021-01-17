@@ -2,6 +2,71 @@ h1:first-of-type{
   display: none; 
 }
 
-h1 {
-  color: red;
-}
+body {
+  background: #CECECE;
+  color: #000;
+  font-family: 'Roboto', Helvetica;
+  font-weight: 500; }
+  body h2 {
+    color: #990100;
+    margin-top: 0; }
+  body ul {
+    padding: 0;
+    margin: 0; }
+  body li {
+    list-style: none; }
+  body a {
+    text-decoration: underline;
+    color: #0000EE; }
+    body a:hover {
+      color: #6f6fff; }
+  body header {
+    background: #FFFFCB;
+    border-bottom: 1px solid #000; }
+    body header .header-info {
+      margin-right: auto;
+      margin-left: auto;
+      padding-left: 15px;
+      padding-right: 15px;
+      height: 40px;
+      line-height: 40px; }
+      body header .header-info:before, body header .header-info:after {
+        content: " ";
+        display: table; }
+      body header .header-info:after {
+        clear: both; }
+      body header .header-info > div {
+        width: 50%; }
+      body header .header-info .header-title {
+        float: left; }
+        body header .header-info .header-title > h1 {
+          font-size: 30px;
+          margin: 0;
+          line-height: 41px; }
+      body header .header-info .header-links {
+        text-align: right;
+        float: right; }
+        body header .header-info .header-links > ul li {
+          display: inline-block;
+          vertical-align: middle; }
+          body header .header-info .header-links > ul li + li {
+            padding-left: 5px; }
+          body header .header-info .header-links > ul li > a {
+            font-size: 15px; }
+            body header .header-info .header-links > ul li > a .fa {
+              text-decoration: none; }
+  body main .main-container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 25px; }
+    body main .main-container:before, body main .main-container:after {
+      content: " ";
+      display: table; }
+    body main .main-container:after {
+      clear: both; }
+    body main .main-container .blog-post {
+      background: #fff;
+      padding: 15px;
+      border: 1px solid #000; }
