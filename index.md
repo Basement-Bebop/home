@@ -1,7 +1,7 @@
 <html>
   <head>
     <title>Basement Bebop</title>
-    <link rel="stylesheet" type="text/css" href="public/assets/stylesheets/style.css">
+    <!-- <link rel="stylesheet" type="text/css" href="public/assets/stylesheets/style.css"> -->
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,500,700,900' rel='stylesheet' type='text/css'>
     <script src="https://use.fontawesome.com/dd2fa40f86.js"></script>
   </head>
