@@ -12,7 +12,7 @@
           <h1>Basement Bebop</h1>
         </div>
 
-        <div class="header-links">
+        <!-- <div class="header-links">
           <ul>
             <li>
               <a href="https://github.com/chasereckling/">Github</a>
@@ -26,8 +26,8 @@
           </ul>
         </div>
 
-        <!-- <h4>First world problem solver by profession; your friend by nature.</h4> -->
-      </div>
+        <h4>First world problem solver by profession; your friend by nature.</h4>
+      </div> -->
     </header>
     <main>
       <div class="main-container">
