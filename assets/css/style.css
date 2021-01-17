@@ -40,6 +40,7 @@ body {
       body header .header-info .header-title {
         float: left; }
         body header .header-info .header-title > h1 {
+          display: block;
           font-size: 30px;
           margin: 0;
           line-height: 41px; }
